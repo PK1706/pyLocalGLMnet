@@ -45,7 +45,7 @@ __FreMTPL-Datensatz:__<br>
 [__Abb. 6:__ Area Code vs. Density](#abb6) <br>
 [__Abb. 7:__ Feature Contributions](#abb7) <br>
 [__Abb. 8:__ Feature Contribution kategorialer Variablen](#abb8) <br>
-[__Abb. 9:__ Interaction Strengths](#abb8) <br>
+[__Abb. 9:__ Interaction Strengths](#abb9) <br>
 
 # Dependencies <a class="anchor" id="dependencies"></a>
 
