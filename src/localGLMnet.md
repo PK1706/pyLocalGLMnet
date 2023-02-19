@@ -336,7 +336,7 @@ print("MSE GLM: " + str(metrics.mean_squared_error(y_test, pred_reg)))
 
 
     
-![png](localGLMnet_files/localGLMnet_30_0.png)
+![png](/src/localGLMnet_markdown_assets/localGLMnet_30_0.png)
     
 
 
@@ -464,7 +464,7 @@ plt.show()
 
 
     
-![png](localGLMnet_files/localGLMnet_38_0.png)
+![png](/src/localGLMnet_markdown_assets/localGLMnet_38_0.png)
     
 
 
@@ -585,7 +585,7 @@ plt.show()
 
 
     
-![png](localGLMnet_files/localGLMnet_45_0.png)
+![png](/src/localGLMnet_markdown_assets/localGLMnet_45_0.png)
     
 
 
@@ -721,7 +721,7 @@ plt.show()
 
 
     
-![png](localGLMnet_files/localGLMnet_52_0.png)
+![png](/src/localGLMnet_markdown_assets/localGLMnet_52_0.png)
     
 
 
@@ -1600,7 +1600,7 @@ plt.show()
 
 
     
-![png](localGLMnet_files/localGLMnet_82_0.png)
+![png](/src/localGLMnet_markdown_assets/localGLMnet_82_0.png)
     
 
 
@@ -1656,7 +1656,7 @@ plt.show()
 
 
     
-![png](localGLMnet_files/localGLMnet_87_0.png)
+![png](/src/localGLMnet_markdown_assets/localGLMnet_87_0.png)
     
 
 
@@ -2106,7 +2106,7 @@ plt.show()
 
 
     
-![png](localGLMnet_files/localGLMnet_99_0.png)
+![png](/src/localGLMnet_markdown_assets/localGLMnet_99_0.png)
     
 
 
@@ -2155,7 +2155,7 @@ plt.show()
 
 
     
-![png](localGLMnet_files/localGLMnet_105_0.png)
+![png](/src/localGLMnet_markdown_assets/localGLMnet_105_0.png)
     
 
 
@@ -2288,7 +2288,7 @@ plt.show()
 
 
     
-![png](localGLMnet_files/localGLMnet_113_0.png)
+![png](/src/localGLMnet_markdown_assets/localGLMnet_113_0.png)
     
 
 
